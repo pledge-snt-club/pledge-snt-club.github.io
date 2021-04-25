@@ -11,6 +11,7 @@ data  = {
             "link":"https://www.linkedin.com/in/ritesh-sharma3499/",
             "des": "I am eager to learn code so that I can use my skill to bring a change to the world. I am fascinated by fields like Machine Learning. I want to contribute to help the community grow "
         },
+
         {
             "avatar": "3",
             "name":"Kush Vasaniya ",
@@ -18,7 +19,16 @@ data  = {
             "link":"https://www.linkedin.com/in/kush-vasaniya-667450210/",
             "des": "I wanna learn, come up with new ideas and implement them. "
         },
-    
+
+        {
+            "avatar": "3",
+            "name":"Tanishq Goyal ",
+            "year":"CSE 1st year",
+            "link":"https://www.linkedin.com/in/tanishq-goyal-4422ab1b0/",
+            "des": "Coding helps me to understand and solve real world problems.I am fascinated by fields like blockchain and AI. I want to contribute to the community for its growth. "
+        },
+
+ 
     
     
     
