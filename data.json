@@ -11,7 +11,14 @@ data  = {
             "link":"https://www.linkedin.com/in/ritesh-sharma3499/",
             "des": "I am eager to learn code so that I can use my skill to bring a change to the world. I am fascinated by fields like Machine Learning. I want to contribute to help the community grow "
         },
-    
+	
+    	 {
+            "avatar": "7",
+            "name":"Ronak Gupta ",
+            "year":"CSE 1st year",
+            "link":"https://www.linkedin.com/in/iamronakgupta/",
+            "des": "Hello i like to learn new things currently i am doing android native development and java thanks "
+        },
     
     
     
