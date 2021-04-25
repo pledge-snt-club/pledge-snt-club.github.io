@@ -12,7 +12,15 @@ data = {
             "des": "I am eager to learn code so that I can use my skill to bring a change to the world. I am fascinated by fields like Machine Learning. I want to contribute to help the community grow "
         },
 
-        // post your enteries above this
+        {
+            "avatar": "7",
+            "name":"Rajat Malik ",
+            "year":"CSE 2nd year",
+            "link":"https://www.linkedin.com/in/rajatmalik1701/",
+            "des": "I want to push myself beyond my limits and grow while learning and helping others. "
+        },
+    
+ 
 
 
         {
@@ -54,6 +62,7 @@ data = {
             "year":"CSE(AI) 1st year",
             "des": "I like to explore new things. I want to contribute to help the community grow "
         },
+
 
     
     
