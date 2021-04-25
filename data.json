@@ -1,41 +1,47 @@
+data = {
 
-data  = {
-    
-    "info":[
+    "info": [
         // post your enteries below this
-        
+
         {
             "avatar": "1",
-            "name":"Ritesh Sharma ",
-            "year":"CSE 2nd year",
-            "link":"https://www.linkedin.com/in/ritesh-sharma3499/",
+            "name": "Ritesh Sharma ",
+            "year": "CSE 2nd year",
+            "link": "https://www.linkedin.com/in/ritesh-sharma3499/",
             "des": "I am eager to learn code so that I can use my skill to bring a change to the world. I am fascinated by fields like Machine Learning. I want to contribute to help the community grow "
         },
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    // post your enteries above this
+        {
+            "avatar": "1",
+            "name": "Nishant Bharwani",
+            "year": "CSE 1st year",
+            "link": "edin.com/in/nishant-bharwani-b9989a186/",
+            "des": "I am eager to learn code so that I can use my skill to bring a change to the world. I am fascinated by fields like Web Development. I want to contribute to help the community grow "
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // post your enteries above this
 
     ]
 }
