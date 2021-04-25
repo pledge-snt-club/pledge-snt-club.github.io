@@ -1,5 +1,5 @@
+data = {
 
-data  = {
 
     "info": [
         // post your enteries below this
@@ -32,13 +32,24 @@ data  = {
             "link":"https://www.linkedin.com/in/tanishq-goyal-4422ab1b0/",
             "des": "Coding helps me to understand and solve real world problems.I am fascinated by fields like blockchain and AI. I want to contribute to the community for its growth. "
         },
+
+      
+
+
           {
             "avatar": "5",
             "name": "Keshav Pareek ",
             "year": "CSE 1nd year",
             "link": "https://www.linkedin.com/in/keshav-pareek-34a0841b5/",
             "des": "Hello Guys !!!! I want to contribute to this community "
-        }
+        },
+              {
+            "avatar": "1",
+            "name": "Nishant Bharwani",
+            "year": "CSE 1st year",
+            "link": "edin.com/in/nishant-bharwani-b9989a186/",
+            "des": "I am eager to learn code so that I can use my skill to bring a change to the world. I am fascinated by fields like Web Development. I want to contribute to help the community grow "
+        },
  
     
     
