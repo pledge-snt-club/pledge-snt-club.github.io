@@ -1,16 +1,17 @@
 
-data  = {
-    
-    "info":[
+
+
+    "info": [
         // post your enteries below this
-        
+
         {
             "avatar": "1",
-            "name":"Ritesh Sharma ",
-            "year":"CSE 2nd year",
-            "link":"https://www.linkedin.com/in/ritesh-sharma3499/",
+            "name": "Ritesh Sharma ",
+            "year": "CSE 2nd year",
+            "link": "https://www.linkedin.com/in/ritesh-sharma3499/",
             "des": "I am eager to learn code so that I can use my skill to bring a change to the world. I am fascinated by fields like Machine Learning. I want to contribute to help the community grow "
         },
+
 	
     	 {
             "avatar": "7",
@@ -20,7 +21,61 @@ data  = {
             "des": "Hello i like to learn new things currently i am doing android native development and java thanks "
         },
     
+
+
+        {
+            "avatar": "7",
+            "name":"Rajat Malik ",
+            "year":"CSE 2nd year",
+            "link":"https://www.linkedin.com/in/rajatmalik1701/",
+            "des": "I want to push myself beyond my limits and grow while learning and helping others. "
+        },
     
+ 
+
+
+        {
+            "avatar": "3",
+            "name":"Kush Vasaniya ",
+            "year":"CSE 1st year",
+            "link":"https://www.linkedin.com/in/kush-vasaniya-667450210/",
+            "des": "I wanna learn, come up with new ideas and implement them. "
+        },
+
+        {
+            "avatar": "3",
+            "name":"Tanishq Goyal ",
+            "year":"CSE 1st year",
+            "link":"https://www.linkedin.com/in/tanishq-goyal-4422ab1b0/",
+            "des": "Coding helps me to understand and solve real world problems.I am fascinated by fields like blockchain and AI. I want to contribute to the community for its growth. "
+        },
+
+      
+
+
+          {
+            "avatar": "5",
+            "name": "Keshav Pareek ",
+            "year": "CSE 1nd year",
+            "link": "https://www.linkedin.com/in/keshav-pareek-34a0841b5/",
+            "des": "Hello Guys !!!! I want to contribute to this community "
+        },
+              {
+            "avatar": "1",
+            "name": "Nishant Bharwani",
+            "year": "CSE 1st year",
+            "link": "edin.com/in/nishant-bharwani-b9989a186/",
+            "des": "I am eager to learn code so that I can use my skill to bring a change to the world. I am fascinated by fields like Web Development. I want to contribute to help the community grow "
+        },
+           {
+            "avatar": "2",
+            "name":"Aayushi Sharma ",
+            "year":"CSE(AI) 1st year",
+            "des": "I like to explore new things. I want to contribute to help the community grow "
+        },
+
+
+
     
     
     
