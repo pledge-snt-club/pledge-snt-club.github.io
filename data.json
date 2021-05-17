@@ -83,6 +83,16 @@ data = {
             "link":"https://www.linkedin.com/in/bhomesh-razdan-9ab520201/",
             "des": "Hello I like to learn new things currently I am doing Web development and Colour Grading thanks "
         },
+
+        {
+            "avatar": "1",
+            "name":"Vikas Mittal",
+            "year":"ECE 2nd year",
+            "link":"https://www.linkedin.com/in/vikas-mittal-7b10611b1/",
+            "des": "I really want to make advancements to what I know and help the community grow as a better place."
+        },
+
+
     
     
     
