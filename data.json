@@ -85,7 +85,14 @@ data = {
         },
     
     
-    
+    {
+            "avatar": "1",
+            "name": "pradeep singh ",
+            "year": "CSE 1st year",
+            "link": https://www.linkedin.com/in/pradeep-singh-7bba47200
+            "des": "I am eager to learn code so that I can use my skill to bring a change to the world. i am working on web development "
+        },
+
     
     
     
