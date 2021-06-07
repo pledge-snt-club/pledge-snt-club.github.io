@@ -83,6 +83,23 @@ data = {
             "link":"https://www.linkedin.com/in/bhomesh-razdan-9ab520201/",
             "des": "Hello I like to learn new things currently I am doing Web development and Colour Grading thanks "
         },
+
+              {
+        "avatar": "1",
+        "name":"Divyansh Gupta ",
+        "year":"CSE 1st year",
+        "link":"https://www.linkedin.com/in/divyansh-gupta-28609b205/",
+        "des": "I am very much excited to learn different languages from this Club.And from that knowledge I will be making some good Projects and also contribute to This Club."
+      },
+
+
+        {
+            "avatar": "1",
+            "name":"Vikas Mittal",
+            "year":"ECE 2nd year",
+            "link":"https://www.linkedin.com/in/vikas-mittal-7b10611b1/",
+            "des": "I really want to make advancements to what I know and help the community grow as a better place."
+        },
         {
             
             "avatar": "4",
