@@ -68,8 +68,7 @@ data = {
             "link":"https://www.linkedin.com/in/iamronakgupta/",
             "des": "Hello i like to learn new things currently i am doing android native development and java thanks "
         },
-    
-{
+        {
             "avatar": "1",
             "name": "Akshat Surana ",
             "year": "CSE 1st year",
@@ -84,13 +83,13 @@ data = {
             "des": "Hello I like to learn new things currently I am doing Web development and Colour Grading thanks "
         },
 
-              {
+        {
         "avatar": "1",
         "name":"Divyansh Gupta ",
         "year":"CSE 1st year",
         "link":"https://www.linkedin.com/in/divyansh-gupta-28609b205/",
         "des": "I am very much excited to learn different languages from this Club.And from that knowledge I will be making some good Projects and also contribute to This Club."
-      },
+        },
 
 
         {
@@ -109,21 +108,24 @@ data = {
             "des": "I would like to explore and grow with this community."
             
         },
-    
-    
-    {
+        {
             "avatar": "1",
             "name": "pradeep singh ",
             "year": "CSE 1st year",
             "link": "https://www.linkedin.com/in/pradeep-singh-7bba47200",
             "des": "I am eager to learn code so that I can use my skill to bring a change to the world. i am working on web development "
         },
+        {
+            "avatar": "3",
+            "name":"Vanshaj Kataria",
+            "year":"ECE 2nd year",
+            "link":"https://www.linkedin.com/in/vanshaj-kataria-3730731b2/",
+            "des": "Joinin the club was a great success for me as it was a great experience, but after joining the core team, I found the community for every TECH need."
+        },
 
     
     
-    
-    
-    
+        
     
     
     
